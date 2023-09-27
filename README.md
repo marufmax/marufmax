@@ -5,7 +5,7 @@ a passionate backend full-stack developer with a love for creating robust and ef
 
 I primarily work with the following technologies, but I am open and can readily adapt to any technology required for a project.
 
-[![SkillIcons](https://skillicons.dev/icons?i=php,ts,nodejs,symfony,laravel,go,react,postgres,mysql,docker,kubernetes&theme=light)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=php,ts,nodejs,symfony,laravel,go,react,postgres,mysql,docker,kubernetes&theme=light)](https://marufalom.com)<br/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=marufmax&color=ff69b4)
