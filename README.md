@@ -3,6 +3,9 @@
 **I'm Maruf** -
 a passionate backend focused full-stack developer with a love for creating robust and efficient web applications. I thrive on solving complex problems and enjoy working with cutting-edge technologies to deliver high-quality software solutions.
 
+### I am currently looking for a job.
+Backend is my preferred position, but I can do full-stack if required.
+
 I primarily work with the following technologies, but I am open and can readily adapt to any technology required for a project.
 
 [![SkillIcons](https://skillicons.dev/icons?i=php,ts,nodejs,symfony,laravel,go,react,postgres,mysql,docker,kubernetes&theme=light)](https://marufalom.com)<br/>
