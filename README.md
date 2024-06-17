@@ -4,7 +4,6 @@
 a passionate backend focused full-stack developer with a love for creating robust and efficient web applications. I thrive on solving complex problems and enjoy working with cutting-edge technologies to deliver high-quality software solutions.
 
 ### I am currently looking for a job.
-Backend is my preferred position, but I can do full-stack if required.
 
 Linkedin: [https://linkedin.com/in/marufalom](https://linkedin.com/in/marufalom)
 
